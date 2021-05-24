@@ -1,0 +1,106 @@
+:root {
+    --light: #fff;
+    --light-darken: #E6E6E6;
+    --dark: #111;
+    --dark-darken: #000;
+    --medium-light: #aaa;
+    --medium-light-darken: #919191;
+    --primary: #007bff;
+    --primary-darken: #006FE6;
+    --secondary: #6c757d;
+    --secondary-darken: #565D64;
+    --success: #28a745;
+    --success-darken: #228D3A;
+    --danger: #dc3545;
+    --danger-darken: #C22F3D;
+    --warning: #ffc107;
+    --warning-darken: #E6AE06;
+    --info: #17a2b8;
+    --info-darken: #148C9F;
+}
+
+/* Text */
+.text-light {
+	color: var(--light);
+}
+.text-dark {
+	color: var(--dark);
+}
+.text-medium-light {
+	color: var(--medium-light);
+}
+.text-primary {
+	color: var(--medium-light);
+}
+.text-secondary {
+	color: var(--secondary);
+}
+.text-success {
+	color: var(--success);
+}
+.text-danger {
+	color: var(--danger);
+}
+.text-warning {
+	color: var(--warning);
+}
+.text-info {
+	color: var(--info);
+}
+
+/* Background */
+.bg-light {
+	background-color: var(--light);
+}
+.bg-dark {
+	background-color: var(--dark);
+}
+.bg-medium-light {
+	background-color: var(--medium-light);
+}
+.bg-primary {
+	background-color: var(--medium-light);
+}
+.bg-secondary {
+	background-color: var(--secondary);
+}
+.bg-success {
+	background-color: var(--success);
+}
+.bg-danger {
+	background-color: var(--danger);
+}
+.bg-warning {
+	background-color: var(--warning);
+}
+.bg-info {
+	background-color: var(--info);
+}
+
+.bg-light-darken {
+	background-color: var(--light-darken);
+}
+.bg-dark-darken {
+	background-color: var(--dark-darken);
+}
+.bg-medium-light-darken {
+	background-color: var(--medium-light-darken);
+}
+.bg-primary-darken {
+	background-color: var(--medium-light-darken);
+}
+.bg-secondary-darken {
+	background-color: var(--secondary-darken);
+}
+.bg-success-darken {
+	background-color: var(--success-darken);
+}
+.bg-danger-darken {
+	background-color: var(--danger-darken);
+}
+.bg-warning-darken {
+	background-color: var(--warning-darken);
+}
+.bg-info-darken {
+	background-color: var(--info-darken);
+}

@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--default-font);
+}
+
+.wrapper {
+    padding-top: 5rem;
+}
+
+a {
+    text-decoration: none;
+}

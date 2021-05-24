@@ -1,0 +1,14 @@
+.media {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+.media-body {
+    -ms-flex: 1;
+    flex: 1;
+}
+
+.media h1,.media h2,.media h3,.media h4,.media h5,.media h6 {
+    margin-top: 0;
+}
