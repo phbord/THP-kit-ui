@@ -17,7 +17,7 @@
     color: var(--light);
 }
 
-.navbar-brand {
+.header .navbar-brand {
     margin-right: 1rem;
     padding-top: .3125rem;
     padding-bottom: .3125rem;
@@ -42,4 +42,9 @@
 .nav-link {
     padding-right: .5rem;
     padding-left: .5rem;
+}
+
+.header a {
+    color: var(--light);
+    font-size: .8rem
 }
