@@ -63,6 +63,10 @@
     background-color: var(--info);
     border-color: var(--info);
 }
+.btn-link {
+    font-weight: 400;
+    color: var(--primary);
+}
 
 /* Hover */
 .btn-light:hover {
@@ -100,6 +104,10 @@
 .btn-info:hover {
     background-color: var(--info-darken);
     border-color: var(--info-darken);
+}
+.btn-link:hover {
+    color: var(--primary-darken);
+    text-decoration: underline;
 }
 
 /* Outline */

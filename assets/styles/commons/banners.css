@@ -1,0 +1,41 @@
+.banner,.banner .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.banner-lg {
+    height: 30rem;
+}
+.banner-sm {
+    height: 15rem;
+}
+.banner div,
+.banner p,
+.banner a,
+.banner span,
+.banner h1,
+.banner h2,
+.banner h3,
+.banner h4,
+.banner h5,
+.banner h6 {
+    max-width: 25rem;
+    margin: 1rem;
+    text-align: center;
+}
+.banner-dark div,
+.banner-dark p,
+.banner-dark a,
+.banner-dark span,
+.banner-dark h1,
+.banner-dark h2,
+.banner-dark h3,
+.banner-dark h4,
+.banner-dark h5,
+.banner-dark h6 {
+    color: var(--light);
+}

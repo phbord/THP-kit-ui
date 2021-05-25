@@ -1,0 +1,9 @@
+@import 'vendor/bootstrap.min.css';
+
+@import 'commons/commons.css';
+@import 'commons/colors.css';
+@import 'commons/forms.css';
+@import 'commons/card.css';
+@import 'commons/banners.css';
+
+@import 'components/navbar.css';

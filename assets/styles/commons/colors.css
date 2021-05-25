@@ -1,0 +1,16 @@
+:root {
+    --light: #fff;
+    --brown: #4D281C;
+    --success: #28a745;
+}
+
+.light {
+    color: var(--light);
+}
+.success {
+    color: var(--success);
+}
+
+.bg-brown {
+    background-color: var(--brown);
+}
